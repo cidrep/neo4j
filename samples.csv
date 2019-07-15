@@ -1,0 +1,34 @@
+Sample_Name,Sample_ID,Sample_Type,Date_of_Collection,Patient_Number,Stage,Location_of_Sampled_Specimen,Size_(mm),"Size_SML(S<=5,5<M=<10,L>10)"
+A001-E-001,1,Tissue,20170324,A001,Metastatic,duoden/desc@17cm,8mm,M
+A001-E-002,2,Tissue,20170324,A001,Metastatic,duoden/desc@17cm,9mm,M
+A001-E-003,3,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-004,4,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-005,5,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-006,6,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-007,7,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-008,8,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-009,9,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-010,10,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-011,11,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-012,12,Tissue,20170324,A001,Metastatic,duodendum@10cm,9mm,M
+A001-E-013,13,Tissue,20170324,A001,Metastatic,duodendum@14cm,5mm,S
+A001-E-014,14,Tissue,20170324,A001,Metastatic,duodendum distal @0-10cm,<5mm,S
+A001-E-015,15,Tissue,20170324,A001,Metastatic,duodendum@13cm,<5mm,S
+A001-E-016,16,Tissue,20170324,A001,Metastatic,duodendum@13cm,<5mm,S
+A001-C-001,1,Tissue,20170904,A001,Metastatic,DESC,-,S
+A001-C-002,2,Tissue,20170904,A001,Metastatic,DESC,1.1,L
+A001-C-003,3,Tissue,20170904,A001,Metastatic,DESC,0.7,M
+A001-C-004,4,Tissue,20170904,A001,Metastatic,ASC,0.5,S
+A001-C-005,5,Tissue,20170904,A001,Metastatic,ASC,0.7,M
+A001-C-006,6,Tissue,20170904,A001,,ASC,1.1,L
+A001-C-224,224,Tissue,20170904,A001,?,Benign,ASC,"1.2x1.3x.3 (l,w,h)"
+A002-C-001,1,Tissue,20161105,A002,Metastatic,DESC,0.5,S
+A002-C-002,2,Tissue,20161105,A002,Metastatic,DESC,0.5,S
+A002-C-003,3,Tissue,20161105,A002,Metastatic,DESC,0.5,S
+A002-C-004,4,Tissue,20161105,A002,Metastatic,DESC,0.5,S
+A002-C-005,5,Tissue,20161105,A002,Metastatic,DESC,0.7,M
+A002-C-006,6,Tissue,20161105,A002,Benign,DESC,3.5,L
+A002-C-007,7,Tissue,20161105,A002,Benign,DESC,2x1x1,L
+A002-C-008,8,Tissue,20161105,A002,Benign,DESC,1.5,L
+A002-C-009,9,Tissue,20161105,A002,Benign,DESC,1.6,L
+A002-C-010,10,Tissue,20161105,A002,Benign,DESC,2,L
